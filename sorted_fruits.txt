@@ -1,0 +1,5 @@
+Fruit: Apple, Color: Red
+Fruit: Banana, Color: Yellow
+Citrus: Lemon, Color: Yellow, Vitamin C: 0.053g
+Citrus: Orange, Color: Orange, Vitamin C: 0.05g
+Citrus: Pomelo, Color: Yellow, Vitamin C: 0.038g

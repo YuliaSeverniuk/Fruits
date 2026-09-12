@@ -1,0 +1,30 @@
+[
+  {
+    "$type": "fruit",
+    "Name": "Apple",
+    "Color": "Red"
+  },
+  {
+    "$type": "citrus",
+    "VitaminC": 0.053,
+    "Name": "Lemon",
+    "Color": "Yellow"
+  },
+  {
+    "$type": "fruit",
+    "Name": "Banana",
+    "Color": "Yellow"
+  },
+  {
+    "$type": "citrus",
+    "VitaminC": 0.05,
+    "Name": "Orange",
+    "Color": "Orange"
+  },
+  {
+    "$type": "citrus",
+    "VitaminC": 0.038,
+    "Name": "Pomelo",
+    "Color": "Yellow"
+  }
+]
